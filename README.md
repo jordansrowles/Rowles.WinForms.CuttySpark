@@ -1,6 +1,8 @@
-﻿# CuttySpark - WinForms Sparkline Control
+# CuttySpark - WinForms Sparkline Control
 
 A minimal Windows Forms control for displaying sparkline graphs with real-time data updates and configuration options.
+
+![Sparkline](./.github/Sparkline.gif)
 
 ## Components
 
