@@ -8,7 +8,7 @@ namespace ExampleApp
         System.Windows.Forms.Timer dataTimer = new System.Windows.Forms.Timer { Interval = 900 };
         System.Windows.Forms.Timer dataTimer2 = new System.Windows.Forms.Timer { Interval = 600 };
 
-        System.Windows.Forms.Timer dataTimer3 = new System.Windows.Forms.Timer { Interval = 1 };
+        System.Windows.Forms.Timer dataTimer3 = new System.Windows.Forms.Timer { Interval = 200 };
 
         public Form1()
         {
