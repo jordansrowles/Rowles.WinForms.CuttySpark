@@ -5,6 +5,12 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <PackageProjectUrl>https://github.com/jordansrowles/Rowles.WinForms.CuttySpark</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jordansrowles/Rowles.WinForms.CuttySpark</RepositoryUrl>
+    <PackageTags>graph;visual;gdi;winforms;sparkline</PackageTags>
+    <IncludeSymbols>True</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
